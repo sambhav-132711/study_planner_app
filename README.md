@@ -2,13 +2,13 @@
 
 A modern, intelligent, and user-friendly **Flutter-based Study Planner Application** designed to help students organize their academic schedules, manage study sessions, track progress, and improve productivity. The application offers an intuitive interface with secure authentication, task management, reminders, and detailed study analytics.
 
-![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart)
-![Firebase](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase)
-![Hive](https://img.shields.io/badge/Database-Hive-F9C900?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-Supported-3DDC84?style=for-the-badge&logo=android)
-![Web](https://img.shields.io/badge/Web-Supported-4285F4?style=for-the-badge&logo=googlechrome)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge)
+![Hive](https://img.shields.io/badge/Hive-Database-F9A825?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-Supported-3DDC84?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web-Supported-4285F4?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-7CB342?style=for-the-badge)
 ## Features
 
 - **Authentication:** Secure user login and registration using Email/Password and Google Sign-In.
