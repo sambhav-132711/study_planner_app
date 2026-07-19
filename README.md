@@ -9,7 +9,7 @@ A modern, intelligent, and user-friendly **Flutter-based Study Planner Applicati
 - Google Sign-In using Firebase Authentication
 - Secure user login and registration
 
-# Tech Stack
+## Tech Stack
 
 | Category | Technology |
 |----------|------------|
@@ -23,7 +23,32 @@ A modern, intelligent, and user-friendly **Flutter-based Study Planner Applicati
 | IDE | Android Studio |
 | Version Control | Git & GitHub |
 
-## Getting Started
+# Getting Started
+
+## Prerequisites
+
+Make sure you have the Flutter SDK installed on your machine. For setup instructions, refer to the official Flutter installation guide.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sambhav-2006/study_planner_app.git
+cd study_planner_app
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
 
 
 
