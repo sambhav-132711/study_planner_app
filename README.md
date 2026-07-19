@@ -25,27 +25,25 @@ A modern, intelligent, and user-friendly **Flutter-based Study Planner Applicati
 
 # Getting Started
 
-## Prerequisites
+**Prerequisites**
+
 
 Make sure you have the Flutter SDK installed on your machine. For setup instructions, refer to the official Flutter installation guide.
 
-## Installation
+**Installation**
 
 **1.Clone the repository:**
-
 ```bash
 git clone https://github.com/sambhav-2006/study_planner_app.git
 cd study_planner_app
 ```
 
 **2.Install dependencies:**
-
 ```bash
 flutter pub get
 ```
 
 **3.Run the application:**
-
 ```bash
 flutter run
 ```
