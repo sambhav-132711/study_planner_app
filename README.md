@@ -31,20 +31,20 @@ Make sure you have the Flutter SDK installed on your machine. For setup instruct
 
 ## Installation
 
-Clone the repository:
+**1.Clone the repository:**
 
 ```bash
 git clone https://github.com/sambhav-2006/study_planner_app.git
 cd study_planner_app
 ```
 
-Install dependencies:
+**2.Install dependencies:**
 
 ```bash
 flutter pub get
 ```
 
-Run the application:
+**3.Run the application:**
 
 ```bash
 flutter run
