@@ -4,18 +4,18 @@ A modern, intelligent, and user-friendly **Flutter-based Study Planner Applicati
 
 ## Features
 
-- **🔐 Authentication:** Secure user login and registration using Email/Password and Google Sign-In.
-- **📅 Study Planning:** Plan study schedules, organize subjects, set deadlines, and manage daily tasks.
-- **⏳ Study Timer:** Built-in study timer to track and improve focus during study sessions.
-- **📊 Progress Tracking:** Monitor completed tasks, study hours, and overall learning progress.
-- **🔔 Notifications:** Receive reminders and alerts for upcoming study sessions and deadlines.
-- **👤 User Profile:** Manage personal information, profile picture, and account settings.
-- **🌙 Customization:** Switch between Light/Dark themes and use multiple language options.
-- **💾 Offline Storage:** Store and access study data locally using Hive without an internet connection.
-- **📆 Calendar Integration:** View and organize study schedules with an interactive calendar.
-- **📚 Subject Management:** Create, edit, and organize subjects for better study planning.
-- **📈 Dashboard Analytics:** Get an overview of tasks, study time, and productivity in a single dashboard.
-- **🎯 User-Friendly Interface:** Modern, responsive, and intuitive UI designed for a seamless user experience.
+- **Authentication:** Secure user login and registration using Email/Password and Google Sign-In.
+- **Study Planning:** Plan study schedules, organize subjects, set deadlines, and manage daily tasks.
+- **Study Timer:** Built-in study timer to track and improve focus during study sessions.
+- **Progress Tracking:** Monitor completed tasks, study hours, and overall learning progress.
+- **Notifications:** Receive reminders and alerts for upcoming study sessions and deadlines.
+- **User Profile:** Manage personal information, profile picture, and account settings.
+- **Customization:** Switch between Light/Dark themes and use multiple language options.
+- **Offline Storage:** Store and access study data locally using Hive without an internet connection.
+- **Calendar Integration:** View and organize study schedules with an interactive calendar.
+- **Subject Management:** Create, edit, and organize subjects for better study planning.
+- **Dashboard Analytics:** Get an overview of tasks, study time, and productivity in a single dashboard.
+- **User-Friendly Interface:** Modern, responsive, and intuitive UI designed for a seamless user experience.
 
 ## Authentication
 
