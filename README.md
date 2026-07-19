@@ -4,8 +4,6 @@ A modern, intelligent, and user-friendly **Flutter-based Study Planner Applicati
 
 ## Features
 
- ## 🚀 Features
-
 - **🔐 Authentication:** Secure user login and registration using Email/Password and Google Sign-In.
 - **📅 Study Planning:** Plan study schedules, organize subjects, set deadlines, and manage daily tasks.
 - **⏳ Study Timer:** Built-in study timer to track and improve focus during study sessions.
@@ -19,7 +17,7 @@ A modern, intelligent, and user-friendly **Flutter-based Study Planner Applicati
 - **📈 Dashboard Analytics:** Get an overview of tasks, study time, and productivity in a single dashboard.
 - **🎯 User-Friendly Interface:** Modern, responsive, and intuitive UI designed for a seamless user experience.
 
-### Authentication
+## Authentication
 
 - Email & Password Authentication
 - Google Sign-In using Firebase Authentication
@@ -38,6 +36,12 @@ A modern, intelligent, and user-friendly **Flutter-based Study Planner Applicati
 | State Management | Flutter Stateful Widgets |
 | IDE | Android Studio |
 | Version Control | Git & GitHub |
+
+## Supported Platforms
+
+- ✅ Android
+- ✅ Web
+- ✅ Windows Desktop
 
 # Getting Started
 
@@ -64,7 +68,20 @@ Make sure you have the Flutter SDK installed on your machine. For setup instruct
   flutter run
   ```
 
+## Repository & Contributions
+The official repository is hosted at(https://github.com/sambhav-2006/study_planner_app).
+Contributions, suggestions, and improvements are welcome.
 
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push the branch.
+5. Open a Pull Request.
 
+## License
+
+© 2026 Sambhav Vakkalagadda. All Rights Reserved.
+
+This project is the intellectual property of the author. No part of this project may be copied, modified, distributed, or used for commercial purposes without prior written permission.
 
 
